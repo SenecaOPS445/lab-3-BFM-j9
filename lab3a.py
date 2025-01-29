@@ -1,8 +1,9 @@
-#!/usr/bin/env python3
-#AuthorID: jowusu9
+###!/usr/bin/env python3
+###Lab-3A
+###AuthorID: jowusu9
 
 
-#return_text_value() function
+##return_text_value() function
 def return_text_value():
     name = 'Terry'
     greeting = 'Good Morning ' + name 
@@ -11,7 +12,7 @@ def return_text_value():
 text = return_text_value()
 
 
-#return_number_value() function
+##return_number_value() function
 def return_number_value():
     num1 = 10
     num2 = 5
